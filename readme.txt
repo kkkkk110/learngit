@@ -6,4 +6,8 @@ Creating a new branch is quick & simple.
 
 修改修改来了来了
 
+
 我要修改这个bug
+
+这是stash的内容
+
